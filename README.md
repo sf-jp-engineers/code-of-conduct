@@ -2,7 +2,7 @@
 
 *A culturally tailored Code of Conduct for meetups and conferences, written in Japanese.*
 
-この [Code of Conduct](code_of_conduct.md) は具体例を上げ、日本向けにカスタマイズしたカンファレンスや meetup のための行動規範です。
+この [**Code of Conduct - 守っていただきたいこと**](code_of_conduct.md) は具体例を上げ、日本向けにカスタマイズしたカンファレンスや meetup のための行動規範です。
 
 米国サンフランシスコで開催している **SF JP Engineers** meetup のオーガナイザーの一同でこの meetup を安全な場とするために作成したものを、より多くのみなさんにも使ってもらえるよう、そして CoC の必要性をわかってもらえるようにと手直ししたものをオープンソースにしました。
 
