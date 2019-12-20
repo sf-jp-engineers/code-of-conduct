@@ -3,7 +3,7 @@
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 
-## Section 1 – Definitions.
+## Section 1 – Definitions
 
 1. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 2. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
@@ -18,7 +18,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 11. **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
 
 
-## Section 2 – Scope.
+## Section 2 – Scope
 
 1. **License grant**.
     1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
@@ -37,7 +37,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
     9. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
 
-## Section 3 – License Conditions.
+## Section 3 – License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
@@ -56,7 +56,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
     4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
 
 
-## Section 4 – Sui Generis Database Rights.
+## Section 4 – Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
@@ -67,14 +67,14 @@ Where the Licensed Rights include Sui Generis Database Rights that apply to Your
 For the avoidance of doubt, this Section [4](https://creativecommons.org/licenses/by/4.0/legalcode.en#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
 
-## Section 5 – Disclaimer of Warranties and Limitation of Liability.
+## Section 5 – Disclaimer of Warranties and Limitation of Liability
 
 1. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 2. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 1. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 
-## Section 6 – Term and Termination.
+## Section 6 – Term and Termination
 
 1. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 2. Where Your right to use the Licensed Material has terminated under Section [6(a)](https://creativecommons.org/licenses/by/4.0/legalcode.en#s6a), it reinstates:
@@ -85,13 +85,13 @@ For the avoidance of doubt, this Section [4](https://creativecommons.org/license
 5. Sections [1](https://creativecommons.org/licenses/by/4.0/legalcode.en#s1), [5](https://creativecommons.org/licenses/by/4.0/legalcode.en#s5), [6](https://creativecommons.org/licenses/by/4.0/legalcode.en#s6), [7](https://creativecommons.org/licenses/by/4.0/legalcode.en#s7), and [8](https://creativecommons.org/licenses/by/4.0/legalcode.en#s8) survive termination of this Public License.
 
 
-## Section 7 – Other Terms and Conditions.
+## Section 7 – Other Terms and Conditions
 
 1. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 2. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
 
 
-## Section 8 – Interpretation.
+## Section 8 – Interpretation
 
 1. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 2. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
